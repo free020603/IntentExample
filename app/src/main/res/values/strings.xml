@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IntentExample</string>
+    <string name="chooser">Choose an app to send your message</string>
+    <string name="nameLabel">Enter your name:</string>
+    <string name="ageLabel">Enter your age:</string>
+    <string name="buttonSendLabel">Send Info</string>
+    <string name="buttonShareLabel">Share Info</string>
+    <string name="title_activity_info">InfoActivity</string>
+</resources>
